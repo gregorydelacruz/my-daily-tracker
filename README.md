@@ -1,4 +1,4 @@
-# my-daily-tracker
+# my-daily-tracker soon
 
 
 coming soon
